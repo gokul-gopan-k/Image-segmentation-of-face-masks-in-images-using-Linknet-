@@ -1,1 +1,2 @@
-# Image-segmentation-of-face-masks-in-images-using-Linknet-
+# Image-segmentation-of-face-masks-in-images-using-Linknet
+This Computer Vision project does image segmentation of face masks in images with people wearing masks using Linknet model. The path of imagesof people and mask images should be provided in config.py file to "IMG_PATH" and "MASK_PATH" variables respectively. The images of people should be in jpg format and corresponding mask images should be in png format. The name of image should match that of its corresponding mask image. 
